@@ -7,8 +7,6 @@ Jinja2==2.11.2
 jsonpickle==1.4.1
 MarkupSafe==1.1.1
 numpy==1.19.0
-opencv-python==4.3.0.36
-Pillow==7.2.0
-pkg-resources==0.0.0
+opencv-python
 Werkzeug==1.0.1
 zipp==3.1.0
